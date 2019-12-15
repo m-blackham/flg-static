@@ -28,11 +28,11 @@ sections:
         url: '#'
   - type: section_cta
     section_id: call-to-action
-    title: This Is Call to Action Block!
-    subtitle: This is an optional description for the call to action block.
+    title: Get in Touch with Us Today
+    subtitle: Contact us to see how we can help with your next fund.
     actions:
-      - label: Get Started
-        url: '#'
+      - label: Contact Us
+        url: 'contact'
 menus:
   main:
     title: Features

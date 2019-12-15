@@ -1,30 +1,30 @@
-title: Stackbit Azimuth Theme
+title: Fund Law Group
 baseurl: /
 permalink: '/:title/'
-palette: blue
+palette: green
 header:
-  title: Azimuth
+  title: Fund Law Group
   logo_img: images/logo.png
   has_nav: true
   menu:
     actions:
-      - label: Sign Up
-        url: /signup
+      - label: Contact Us
+        url: /contact
 footer:
-  logo_img: images/logo_alt.png
-  tagline: SaaS theme by Stackbit
+  logo_img: images/logo.png
+  tagline: Law Firm for Fund Organizers
   has_nav: true
-  nav_title: Company
+  nav_title: Firm
   has_social: true
-  social_title: Community
+  social_title: Follow Us
   has_subscribe: true
   subscribe_title: Subscribe
   subscribe_content: Stay up to date with our latest developments.
-  content: '&copy; Stackbit. All rights reserved.'
+  content: '&copy; Fund Law Group LLP. All rights reserved.'
   links:
-    - text: Made with Stackbit
-      url: 'https://www.stackbit.com'
-      new_window: true
+    - text: Fund Law Group
+      url: 'https://www.fundlawgroup.com'
+      new_window: false
 sass:
   indentWidth: 4
   style: nested
