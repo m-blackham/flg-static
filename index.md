@@ -3,13 +3,12 @@ title: Home
 sections:
   - type: section_hero
     section_id: hero
-    title: Test Headline
+    title: Fund Law Group | Legal for Private Fund Organizers
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      Venture Capital | Private Equtiy | Real Estate
     image: images/hero.png
     actions:
-      - label: Learn More
+      - label: Contact Us Today
         url: /features
   - type: section_features
     section_id: features
