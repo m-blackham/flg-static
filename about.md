@@ -5,7 +5,7 @@ subtitle: >-
   about.
 img_path: images/about.jpg
 menus:
-  secondary:
+  main:
     title: About Us
     weight: 1
 layout: page
